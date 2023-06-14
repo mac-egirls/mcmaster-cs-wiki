@@ -2,13 +2,11 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-14T23:11:34.337Z
+date: 2023-06-14T23:21:59.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
 ---
-
-# Year 3 Course List
 
 See Also:
 
