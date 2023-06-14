@@ -2,17 +2,16 @@
 title: Home
 description: 
 published: true
-date: 2023-06-14T23:17:24.714Z
+date: 2023-06-14T23:19:44.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T22:38:36.965Z
 ---
 
-# Home
 Welcome to the McMaster CS Wiki! Please contribute whatever you can, from course notes, to professor ratings!
 
-## Courses
+# Courses
 [Year 3 Course List](/courses/y3/courselist)
 
-## Professors
+# Professors
 [Professors](/professors)
