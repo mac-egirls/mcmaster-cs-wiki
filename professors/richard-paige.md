@@ -2,7 +2,7 @@
 title: Richard Paige
 description: 
 published: true
-date: 2023-06-15T23:45:57.199Z
+date: 2023-06-15T23:47:17.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T23:45:57.199Z
@@ -13,6 +13,7 @@ Email: paigeri@mcmaster.ca
 Office: ITB 159A
 
 Website: https://www.cas.mcmaster.ca/paige/
+Twitter: https://twitter.com/richpaige
 
 # RateMyProfessor
 https://www.ratemyprofessors.com/professor/2796572
