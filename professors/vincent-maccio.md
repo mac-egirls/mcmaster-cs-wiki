@@ -2,7 +2,7 @@
 title: Vincent Maccio
 description: 
 published: true
-date: 2023-06-15T03:29:56.684Z
+date: 2023-06-15T03:32:38.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:08:43.966Z
@@ -10,7 +10,7 @@ dateCreated: 2023-06-15T03:08:43.966Z
 
 # Contact Info
 Email: macciov@mcmaster.ca
-Office: ITB 219
+Office: [ITB 219](https://goo.gl/maps/eLZp6FyFQNuGHt1a9)
 
 Personal Site: https://www.vincentmaccio.com/
 YouTube Channel: https://www.youtube.com/channel/UCKpGnRhm920yZYlf5-nSBuw
