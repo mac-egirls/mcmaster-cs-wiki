@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T23:44:49.215Z
+date: 2023-06-15T23:57:30.648Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -38,11 +38,17 @@ One Of:
 # Electives (6 units minimum)
 ## Fall
 ### COMPSCI 3GC3 - Computer Graphics
-
+#### Professor
+[Yingying Wang](/professors/yingying-wang)
+3.9/5
+Lectures: Monday 8:30am-10:20am, Wednesday 8:30am-9:20am
+Bi-weekly tutorials, Tuesdays 10:30am-12:20pm
 ### COMPSCI 3IS3 - Information Security
 #### Professor
 [Javad Doliskani](/professors/javad-doliskani)
 3.9/5
+Lectures: Monday, Thursday 12:30pm-1:20pm
+Tutorial: Tuesday 1:30pm-2:20pm
 ### COMPSCI 3RA3 - Software Requirements and Security Considerations
 Conflicts with COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
 
