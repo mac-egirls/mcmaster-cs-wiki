@@ -2,7 +2,7 @@
 title: Javad Doliskani
 description: 
 published: true
-date: 2023-06-15T23:41:32.775Z
+date: 2023-06-15T23:45:40.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T23:41:32.775Z
@@ -10,7 +10,7 @@ dateCreated: 2023-06-15T23:41:32.775Z
 
 # Contact Info
 Email: doliskaj@mcmaster.ca
-Office: Unknown
+Office: Room 162 ITB (unconfirmed)
 
 Website: https://doliskani.net/jake/
 
