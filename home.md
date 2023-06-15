@@ -2,13 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2023-06-15T05:16:10.248Z
+date: 2023-06-15T11:18:10.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T22:38:36.965Z
 ---
 
-Welcome to the McMaster CS Wiki! Please contribute whatever you can, from course notes, to professor ratings!
+Welcome to the McMaster CS Wiki! Please contribute whatever you can, from course notes to professor ratings!
 
 # Courses
 
