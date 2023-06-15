@@ -2,7 +2,7 @@
 title: McMaster Competitive Programing
 description: programming competition team with opportunities to network with Intel
 published: true
-date: 2023-06-15T00:03:25.511Z
+date: 2023-06-15T03:38:23.254Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T00:03:25.511Z
