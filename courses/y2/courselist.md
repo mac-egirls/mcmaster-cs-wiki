@@ -1,8 +1,8 @@
 ---
-title: Course List
+title: Year 2 Course List
 description: 
 published: true
-date: 2023-06-15T03:51:27.824Z
+date: 2023-06-15T03:51:51.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:26:48.016Z
