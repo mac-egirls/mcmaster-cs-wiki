@@ -2,7 +2,7 @@
 title: Year 2 Course List
 description: 
 published: true
-date: 2023-06-15T03:51:51.933Z
+date: 2023-06-15T03:52:25.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:26:48.016Z
@@ -21,7 +21,7 @@ dateCreated: 2023-06-15T03:26:48.016Z
 ### COMPSCI 2ME3: Introduction to Software Development
 - [Academic Calendars](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265615)
 
-## Elective
+## Electives
 ### STATS 3Y03: Probability and Statistics for Engineering
 
 # Winter
@@ -37,6 +37,6 @@ dateCreated: 2023-06-15T03:26:48.016Z
 
 ### COMPSCI 2XC3: Computer Science Practice and Experience: Algorithms and Software Design
 
-## Elective
+## Electives
 ### MATH 2R03: Theory of Linear Algebra
 - [Academic Calendars](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=265615)
