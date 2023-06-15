@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T03:00:28.507Z
+date: 2023-06-15T03:52:52.082Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -10,7 +10,7 @@ dateCreated: 2023-06-14T23:11:34.337Z
 
 This information is accurate as of 2023-06-14
 
-# Required Courses
+# Required Courses (18 units)
 ## Fall (9 units)
 ### COMPSCI 3MI3 - Principles of Programming Languages
 
