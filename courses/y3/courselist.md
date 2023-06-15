@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:42:09.223Z
+date: 2023-06-15T02:43:02.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -16,6 +16,7 @@ This information is accurate as of 2023-06-14
 ## 3IS3: Information Security
 
 ## 3RA3: Software Requirements and Security Considerations
+Conflicts with COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
 
 # Winter
 ## 3DM3: Intro to Data Mining
@@ -31,6 +32,11 @@ New course (as of 2023) taught by Stoyo
 2.6/5
 
 ## 3DP3 - Data Privacy
+- Been called "basically a stats proof course"
+- 4 proof based assignments
+- Closed book midterm/exam
+- Up to 7% free as bonus marks for participation/course evals
+
 ### Professor
 [Shahab Asoodeh](/professors/shahab-asoodeh)
 2.8/5
