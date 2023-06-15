@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-06-14T23:19:44.081Z
+date: 2023-06-15T00:08:50.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T22:38:36.965Z
@@ -15,3 +15,8 @@ Welcome to the McMaster CS Wiki! Please contribute whatever you can, from course
 
 # Professors
 [Professors](/professors)
+
+# About
+
+**Analytics**
+https://analytics.umami.is/share/MugAnZWPeJk3ICCn/Mac%20CS%20Wiki
