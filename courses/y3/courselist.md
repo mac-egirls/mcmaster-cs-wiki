@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:51:20.491Z
+date: 2023-06-15T02:51:39.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -58,17 +58,17 @@ New course (as of 2023) taught by Stoyo
 ## Unknown
 // If you know if/when these courses are running, pls fix
 
-### SFWRENG 3GB3: Game design
+### SFWRENG 3GB3 - Game design
 
-### SFWRENG 2MX3: Signals and Systems
+### SFWRENG 2MX3 - Signals and Systems
 
-### SFWRENG 2S03: Software Testing
+### SFWRENG 2S03 - Software Testing
 
-### SFWRENG 4J03: Communications Systems
+### SFWRENG 4J03 - Communications Systems
 
 ## Not Running
 
-### COMPSCI 3EA3: Software and System Correctness
+### COMPSCI 3EA3 - Software and System Correctness
 
 ---
 
