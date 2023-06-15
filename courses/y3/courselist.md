@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:51:55.010Z
+date: 2023-06-15T02:52:29.441Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -16,10 +16,10 @@ This information is accurate as of 2023-06-14
 
 ### COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
 
-### One Of:
-#### STATS 2D03 - Introduction to Probability
+One Of:
+### STATS 2D03 - Introduction to Probability
 
-#### STATS 3Y03 - Probability and Statistics for Engineering
+### STATS 3Y03 - Probability and Statistics for Engineering
 
 ## Winter
 
