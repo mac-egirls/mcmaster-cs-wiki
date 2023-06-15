@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:37:58.710Z
+date: 2023-06-15T02:41:41.690Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -20,6 +20,7 @@ This information is accurate as of 2023-06-14
 # Winter
 ## 3DM3: Intro to Data Mining
 ### Professor
+[Lingyang Chu](/professors/lingyang-chu)
 
 ## 3MR3: Mobile Robots and Autonomous Systems
 New course (as of 2023) taught by Stoyo
