@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T23:41:47.223Z
+date: 2023-06-15T23:44:27.371Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -40,7 +40,9 @@ One Of:
 ### COMPSCI 3GC3 - Computer Graphics
 
 ### COMPSCI 3IS3 - Information Security
-
+#### Professor
+[Javad Doliskani](/professors/javad-doliskani)
+3.9/5
 ### COMPSCI 3RA3 - Software Requirements and Security Considerations
 Conflicts with COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
 
