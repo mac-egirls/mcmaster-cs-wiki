@@ -2,11 +2,13 @@
 title: Vincent Maccio
 description: 
 published: true
-date: 2023-06-15T03:32:38.114Z
+date: 2023-06-15T03:37:42.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:08:43.966Z
 ---
+
+https://www.eng.mcmaster.ca/faculty/vincent-maccio/
 
 # Contact Info
 Email: macciov@mcmaster.ca
