@@ -2,11 +2,13 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:37:15.305Z
+date: 2023-06-15T02:37:58.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
 ---
+
+This information is accurate as of 2023-06-14
 
 # Fall
 ## 3GC3: Computer Graphics
@@ -42,6 +44,7 @@ New course (as of 2023) taught by Stoyo
 
 ## SFWRENG 4J03: Communications Systems
 
+# Not Running
 
 ---
 
