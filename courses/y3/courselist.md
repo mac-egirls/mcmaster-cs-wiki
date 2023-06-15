@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:52:29.441Z
+date: 2023-06-15T02:55:26.968Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -18,8 +18,15 @@ This information is accurate as of 2023-06-14
 
 One Of:
 ### STATS 2D03 - Introduction to Probability
+- Easier of the two courses
+- More theory based in final, show your work
+- Assignemtns are MCQ, 10 attempts per question
+- Better grade distribution
 
 ### STATS 3Y03 - Probability and Statistics for Engineering
+- More similar to Calc courses
+	- MCQs in assignments and Childsmath
+- Requires more calc knowledge(?)
 
 ## Winter
 
