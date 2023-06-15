@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T23:39:41.035Z
+date: 2023-06-15T23:41:07.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -69,7 +69,7 @@ New course (as of 2023) taught by Stoyo
 
 ### SFWRENG 3S03 - Software Testing
 #### Professor
-[Richard Paige]
+[Richard Paige](/professors/richard-paige)
 
 ## Unknown
 // If you know if/when these courses are running, pls fix
