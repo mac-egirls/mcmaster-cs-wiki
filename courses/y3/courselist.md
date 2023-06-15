@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T03:52:52.082Z
+date: 2023-06-15T23:39:41.035Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -67,14 +67,16 @@ New course (as of 2023) taught by Stoyo
 [Shahab Asoodeh](/professors/shahab-asoodeh)
 2.8/5
 
+### SFWRENG 3S03 - Software Testing
+#### Professor
+[Richard Paige]
+
 ## Unknown
 // If you know if/when these courses are running, pls fix
 
 ### SFWRENG 3GB3 - Game design
 
 ### SFWRENG 2MX3 - Signals and Systems
-
-### SFWRENG 2S03 - Software Testing
 
 ### SFWRENG 4J03 - Communications Systems
 
