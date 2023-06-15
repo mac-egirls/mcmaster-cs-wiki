@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:44:10.382Z
+date: 2023-06-15T02:50:54.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -10,22 +10,35 @@ dateCreated: 2023-06-14T23:11:34.337Z
 
 This information is accurate as of 2023-06-14
 
+# Required Courses
+## Fall
+### COMPSCI 3MI3: Principles of Programing Languages
+
+### COMPSCI 3SH3:
+
+### One Of:
+#### STATS 2D03 - Introduction to Probability
+
+#### STATS 3Y03 - Probability and Statistics for Engineering
+
+## Winter
+
 # Electives
 ## Fall
-### COMPSCI 3GC3: Computer Graphics
+### COMPSCI 3GC3 - Computer Graphics
 
-### COMPSCI 3IS3: Information Security
+### COMPSCI 3IS3 - Information Security
 
-### COMPSCI 3RA3: Software Requirements and Security Considerations
+### COMPSCI 3RA3 - Software Requirements and Security Considerations
 Conflicts with COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
 
 ## Winter
-### COMPSCI 3DM3: Intro to Data Mining
+### COMPSCI 3DM3 - Intro to Data Mining
 #### Professor
 [Lingyang Chu](/professors/lingyang-chu)
 4/5
 
-### COMPSCI 3MR3: Mobile Robots and Autonomous Systems
+### COMPSCI 3MR3 - Mobile Robots and Autonomous Systems
 New course (as of 2023) taught by Stoyo
 
 #### Professor
