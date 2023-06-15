@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:55:26.968Z
+date: 2023-06-15T03:00:28.507Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -11,7 +11,7 @@ dateCreated: 2023-06-14T23:11:34.337Z
 This information is accurate as of 2023-06-14
 
 # Required Courses
-## Fall
+## Fall (9 units)
 ### COMPSCI 3MI3 - Principles of Programming Languages
 
 ### COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
@@ -28,9 +28,14 @@ One Of:
 	- MCQs in assignments and Childsmath
 - Requires more calc knowledge(?)
 
-## Winter
+## Winter (9 units)
+### COMPSCI 3AC3 - Algorithms and Complexity
 
-# Electives
+### COMPSCI 3N03 - Computer Networks and Security
+
+### COMPSCI 3TB3 - Syntax-Based Tools and Compilers
+
+# Electives (6 units minimum)
 ## Fall
 ### COMPSCI 3GC3 - Computer Graphics
 
