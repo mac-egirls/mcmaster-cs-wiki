@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T02:50:54.150Z
+date: 2023-06-15T02:51:20.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -12,9 +12,9 @@ This information is accurate as of 2023-06-14
 
 # Required Courses
 ## Fall
-### COMPSCI 3MI3: Principles of Programing Languages
+### COMPSCI 3MI3 - Principles of Programming Languages
 
-### COMPSCI 3SH3:
+### COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
 
 ### One Of:
 #### STATS 2D03 - Introduction to Probability
