@@ -2,7 +2,7 @@
 title: Professors
 description: 
 published: true
-date: 2023-06-16T00:54:52.458Z
+date: 2023-06-16T00:58:05.427Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T15:26:28.704Z
@@ -16,6 +16,7 @@ dateCreated: 2023-06-15T15:26:28.704Z
 [Ryszard Janicki](/professors/ryszard-janicki)
 [Todor Stoyanov](/professors/todor-stoyanov)
 [Vincent Maccio](/professors/vincent-maccio)
+[Yingying Wang](/professors/yingying-wang)
 
 
 
