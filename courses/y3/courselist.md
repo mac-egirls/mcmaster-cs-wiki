@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-16T01:06:18.771Z
+date: 2023-06-16T16:52:51.285Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -12,16 +12,14 @@ This information is accurate as of 2023-06-14
 
 # Required Courses (18 units)
 ## Fall (9 units)
-### COMPSCI 3MI3 - Principles of Programming Languages
-#### Professor
-[Jacques Carette](/professors/jacques-carette)
-1.9/5
-### COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
-#### Professor
-Unannounced
+
+| Code | Name | Prof | Prof Rating |
+|------|-----|-----|----|
+| COMPSCI 3MI3 | Principles of Programming Languages| [Jacques Carette](/professors/jacques-carette) | 1.9/5 |
+| COMPSCI 3SH3 | Computer Science Practice and Experience: Operating Systems | Unannounced | N/A |
 
 
-One Of:
+**and one of:**
 ### STATS 2D03 - Introduction to Probability
 - Easier of the two courses
 - More theory based in final, show your work
@@ -34,33 +32,32 @@ One Of:
 - Requires more calc knowledge(?)
 
 ## Winter (9 units)
-### COMPSCI 3AC3 - Algorithms and Complexity
-#### Professor
-[Ryszard Janicki](/professors/ryszard-janicki)
-1.5/5
-### COMPSCI 3N03 - Computer Networks and Security
-#### Professor
-Unannounced
-### COMPSCI 3TB3 - Syntax-Based Tools and Compilers
-#### Professor
-[Emil Sekerinski](/professors/emil-sekerinski)
-3/5
-# Electives (6 units minimum)
+
+
+| Code | Name | Prof | Prof Rating |
+|------|-----|-----|----|
+| COMPSCI 3AC3 | Algorithms and Complexity | [Ryszard Janicki](/professors/ryszard-janicki) | 1.5/5 |
+| COMPSCI 3N03 | Computer Networks and Security | Unannounced | N/A |
+| COMPSCI 3TB3 | Syntax-Based Tools and Compilers | [Emil Sekerinski](/professors/emil-sekerinski) | 3/5
+
+# Technical Electives (6 units minimum)
 ## Fall
+| Code | Name | Prof | Prof Rating |
+|------|-----|-----|----|
+| COMPSCI 3GC3 | Computer Graphics | [Yingying Wang](/professors/yingying-wang) | 3.9/5 |
+| COMPSCI 3IS3 | Information Security | [Javad Doliskani](/professors/javad-doliskani) | 3.9/5 |
+| COMPSCI 3RA3 | Software Requirements and Security Considerations |  | 
+
 ### COMPSCI 3GC3 - Computer Graphics
-#### Professor
-[Yingying Wang](/professors/yingying-wang)
-3.9/5
 Lectures: Monday 8:30am-10:20am, Wednesday 8:30am-9:20am
 Bi-weekly tutorials, Tuesdays 10:30am-12:20pm
+
 ### COMPSCI 3IS3 - Information Security
-#### Professor
-[Javad Doliskani](/professors/javad-doliskani)
-3.9/5
 Lectures: Monday, Thursday 12:30pm-1:20pm
 Tutorial: Tuesday 1:30pm-2:20pm
 ### COMPSCI 3RA3 - Software Requirements and Security Considerations
-Conflicts with COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
+> Conflicts with COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
+{.is-warning}
 
 ## Winter
 ### COMPSCI 3DM3 - Intro to Data Mining
