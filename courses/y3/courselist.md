@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-16T00:22:20.400Z
+date: 2023-06-16T00:38:02.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -17,7 +17,8 @@ This information is accurate as of 2023-06-14
 [Jacques Carette](/professors/jacques-carette)
 1.9/5
 ### COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
-
+#### Professor
+Unannounced
 One Of:
 ### STATS 2D03 - Introduction to Probability
 - Easier of the two courses
