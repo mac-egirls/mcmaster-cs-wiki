@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-16T00:07:05.278Z
+date: 2023-06-16T00:18:51.097Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -32,11 +32,15 @@ One Of:
 
 ## Winter (9 units)
 ### COMPSCI 3AC3 - Algorithms and Complexity
-
+#### Professor
+[Ryszard Janicki](/professors/ryszard-janicki)
+1.5
 ### COMPSCI 3N03 - Computer Networks and Security
-
+#### Professor
+Unannounced
 ### COMPSCI 3TB3 - Syntax-Based Tools and Compilers
-
+#### Professor
+[Emil Sekerinski](/professors/emil-sekerinski)
 # Electives (6 units minimum)
 ## Fall
 ### COMPSCI 3GC3 - Computer Graphics
