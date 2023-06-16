@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-16T01:05:51.387Z
+date: 2023-06-16T01:06:18.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -21,7 +21,7 @@ This information is accurate as of 2023-06-14
 Unannounced
 
 
-### One Of:
+One Of:
 ### STATS 2D03 - Introduction to Probability
 - Easier of the two courses
 - More theory based in final, show your work
