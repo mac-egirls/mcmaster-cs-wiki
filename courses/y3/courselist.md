@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-15T23:57:30.648Z
+date: 2023-06-16T00:07:05.278Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -13,7 +13,9 @@ This information is accurate as of 2023-06-14
 # Required Courses (18 units)
 ## Fall (9 units)
 ### COMPSCI 3MI3 - Principles of Programming Languages
-
+#### Professor
+[Jacques Carette](/professors/jacques-carette)
+1.9/5
 ### COMPSCI 3SH3 - Computer Science Practice and Experience: Operating Systems
 
 One Of:
