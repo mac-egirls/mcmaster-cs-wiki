@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: 
 published: true
-date: 2023-06-16T16:52:51.285Z
+date: 2023-06-16T16:55:39.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -70,7 +70,7 @@ New course (as of 2023) taught by Stoyo
 
 #### Professor
 [Todor Stoyanov](/professors/todor-stoyanov)
-2.6/5
+3.6/5
 
 ### 3DP3 - Data Privacy
 - Been called "basically a stats proof course"
