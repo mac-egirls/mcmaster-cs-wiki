@@ -2,7 +2,7 @@
 title: Jacques Carette
 description: 
 published: true
-date: 2023-06-16T00:54:04.525Z
+date: 2023-06-16T01:19:52.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-16T00:01:17.299Z
@@ -14,6 +14,7 @@ Office: ITB 168
 
 Home Page: https://www.cas.mcmaster.ca/~carette/
 Twitter: https://twitter.com/jjcarett2
+GitHub: https://github.com/JacquesCarette
 
 # RateMyProfessor
 https://www.ratemyprofessors.com/professor/290193
