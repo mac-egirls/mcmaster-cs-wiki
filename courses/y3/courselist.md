@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-17T15:34:31.804Z
+date: 2023-06-17T15:46:29.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -94,14 +94,17 @@ New course (as of 2023) taught by Stoyo
 [Richard Paige](/professors/richard-paige)
 4.8/5
 
+### COMPSCI 4AD3 - Advanced Databases
+#### Professor
+[Fei Chiang](/professors/fei-chiang)
+3.1/5
+
 ## Unknown
 // If you know if/when these courses are running, pls fix
 
 ### SFWRENG 3GB3 - Game design
 
 ### SFWRENG 4J03 - Communications Systems
-
-### COMPSCI 4AD3 - Advanced Databases
 
 ## Not Running
 
