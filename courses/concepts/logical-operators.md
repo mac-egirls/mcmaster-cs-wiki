@@ -1,8 +1,8 @@
 ---
 title: Logical Operators
-description: boolean operators, truth tables, and basic circuits
+description: operators used in Boolean algebra, and Propositional logic, and to represent logic gates
 published: true
-date: 2023-06-17T12:35:58.416Z
+date: 2023-06-17T12:37:49.790Z
 tags: logic, computer architecture
 editor: markdown
 dateCreated: 2023-06-17T12:35:58.416Z
