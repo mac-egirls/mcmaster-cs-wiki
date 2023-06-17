@@ -2,7 +2,7 @@
 title: 1 - probability
 description: 
 published: true
-date: 2023-06-17T04:15:47.073Z
+date: 2023-06-17T04:21:49.143Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:56:50.317Z
@@ -31,11 +31,13 @@ Given events $E_1, E_2 \subseteq S$, the following are events:
 
 ## Definition
 - events are ***mutually exclusive*** if they cannot occur at the same time.
-$$\begin{aligned}
+$$
+\begin{aligned}
 	E \cap F \equiv \emptyset \\
 	P(E \cap F) = 0 \\
 	P(E | F) = 0 \\
-\end{aligned}$$
+\end{aligned}
+$$
 
 
 ### OR Rule
