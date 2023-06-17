@@ -2,7 +2,7 @@
 title: Professors
 description: 
 published: true
-date: 2023-06-17T15:35:50.644Z
+date: 2023-06-17T15:36:33.621Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T15:26:28.704Z
@@ -18,7 +18,7 @@ dateCreated: 2023-06-15T15:26:28.704Z
 [Vincent Maccio](/professors/vincent-maccio)
 [Yingying Wang](/professors/yingying-wang)
 [Sebastien Mosser](/professors/sebastien-mosser)
-[Martin vonMohrenschildt]
+[Martin vonMohrenschildt](/professors/martin-vonmohrenschildt)
 
 
 
