@@ -2,7 +2,7 @@
 title: Logical Operators
 description: operators used in Boolean algebra, and Propositional logic, and to represent logic gates
 published: true
-date: 2023-06-18T00:02:27.322Z
+date: 2023-06-18T00:19:07.787Z
 tags: logic, computer architecture
 editor: markdown
 dateCreated: 2023-06-17T12:35:58.416Z
@@ -10,7 +10,7 @@ dateCreated: 2023-06-17T12:35:58.416Z
 
 # Logical Operators
 
-A Logical operator takes in $n$ [truth values](/courses/concepts/boolean-algebra#truth-values), and returns a truth value. A logical operator can be defined using a [truth table](/courses/concepts/logic/truth-tables), or by combining other operators
+A Logical operator takes in $n$ [truth values](/courses/concepts/logic/boolean-algebra#truth-values), and returns a truth value. A logical operator can be defined using a [truth table](/courses/concepts/logic/truth-tables), or by combining other operators
 
 
 
