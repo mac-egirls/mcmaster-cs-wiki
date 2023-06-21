@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-21T04:22:41.707Z
+date: 2023-06-21T12:34:43.368Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -23,7 +23,7 @@ This information is accurate as of 2023-06-14
 ### STATS 2D03 - Introduction to Probability
 - Easier of the two courses
 - More theory based in final, show your work
-- Assignemtns are MCQ, 10 attempts per question
+- Assignements are MCQ, 10 attempts per question
 - Better grade distribution
 
 ### STATS 3Y03 - Probability and Statistics for Engineering
