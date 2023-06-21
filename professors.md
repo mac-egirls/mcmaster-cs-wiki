@@ -2,7 +2,7 @@
 title: Professors
 description: 
 published: true
-date: 2023-06-21T04:24:49.553Z
+date: 2023-06-21T04:25:03.089Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T15:26:28.704Z
@@ -13,7 +13,7 @@ dateCreated: 2023-06-15T15:26:28.704Z
 [Fei Chiang](/professors/fei-chiang)
 [Jacques Carette](/professors/jacques-carette)
 [Javad Doliskani](/professors/javad-doliskani)
-[Martin von Mohrenschildt](/professors/martin-von-mohrenschildt)
+[Martin von Mohrenschildt](/professors/martin-vonmohrenschildt)
 [Richard Paige](/professors/richard-paige)
 [Ryszard Janicki](/professors/ryszard-janicki)
 [Sebastien Mosser](/professors/sebastien-mosser)
