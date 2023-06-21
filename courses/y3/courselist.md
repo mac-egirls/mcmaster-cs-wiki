@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-21T04:22:03.569Z
+date: 2023-06-21T04:22:41.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -86,19 +86,6 @@ Apparently Stoyo isn't teaching this year's course smh
 - Closed book midterm/exam
 - Up to 7% free as bonus marks for participation/course evals
 
-#### Professor
-[Shahab Asoodeh](/professors/shahab-asoodeh)
-2.8/5
-
-### SFWRENG 3S03 - Software Testing
-#### Professor
-[Richard Paige](/professors/richard-paige)
-4.8/5
-
-### COMPSCI 4AD3 - Advanced Databases
-#### Professor
-[Fei Chiang](/professors/fei-chiang)
-3.1/5
 
 ## Unknown
 // If you know if/when these courses are running, pls fix
