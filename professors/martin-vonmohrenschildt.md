@@ -1,8 +1,8 @@
 ---
-title: Martin vonMohrenschildt
+title: Martin von Mohrenschildt
 description: 
 published: true
-date: 2023-06-17T15:40:20.074Z
+date: 2023-06-21T04:24:32.372Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-17T15:40:20.074Z
