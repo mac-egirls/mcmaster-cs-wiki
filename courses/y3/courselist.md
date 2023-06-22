@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-21T12:34:43.368Z
+date: 2023-06-22T02:40:46.810Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -75,9 +75,10 @@ Tutorial: Wednesday 12:30pm-1:20pm OR Wednesday 2:30pm-3:20pm OR Thursday 3:30pm
 | SFWRENG 3S03 | Software Testing | [Richard Paige](/professors/richard-paige) | 4.8/5 |
 | COMPSCI 4AD3 | Advanced Databases | [Fei Chiang](/professors/fei-chiang) | 3.1/5 |
 
-### COMPSCI 3MR3 - Mobile Robots and Autonomous Systems
+### ~~COMPSCI 3MR3 - Mobile Robots and Autonomous Systems~~
 New course (as of 2023) ~~taught by Stoyo~~
 Apparently Stoyo isn't teaching this year's course smh
+THE COURSE IS FUCKING GONE?????????
 
 
 ### 3DP3 - Data Privacy
