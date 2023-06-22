@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-22T02:40:46.810Z
+date: 2023-06-22T15:52:20.247Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -86,6 +86,9 @@ THE COURSE IS FUCKING GONE?????????
 - 4 proof based assignments
 - Closed book midterm/exam
 - Up to 7% free as bonus marks for participation/course evals
+
+### COMPSCI 3DM3 - Intro to Data Mining
+- Has been said that COMPSCI 3DM3 (Intro to Data Mining) is a better way to prep for COMPSCI 4ML3 (Intro to Machine Learning) than Linear Optimization due to not using much linear optimization in 4ML3
 
 
 ## Unknown
