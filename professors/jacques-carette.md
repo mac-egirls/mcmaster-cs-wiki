@@ -2,7 +2,7 @@
 title: Jacques Carette
 description: 
 published: true
-date: 2023-06-16T01:19:52.675Z
+date: 2023-06-22T23:50:16.841Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-16T00:01:17.299Z

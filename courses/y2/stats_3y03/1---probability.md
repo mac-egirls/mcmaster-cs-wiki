@@ -2,7 +2,7 @@
 title: 1 - probability
 description: 
 published: true
-date: 2023-06-17T04:22:33.095Z
+date: 2023-06-17T04:22:36.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:56:50.317Z

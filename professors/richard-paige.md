@@ -2,7 +2,7 @@
 title: Richard Paige
 description: 
 published: true
-date: 2023-06-15T23:47:41.249Z
+date: 2023-06-22T23:50:24.175Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T23:45:57.199Z

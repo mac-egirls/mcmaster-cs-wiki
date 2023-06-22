@@ -2,7 +2,7 @@
 title: Professors
 description: 
 published: true
-date: 2023-06-21T04:25:03.089Z
+date: 2023-06-22T23:49:47.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T15:26:28.704Z

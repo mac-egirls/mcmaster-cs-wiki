@@ -2,7 +2,7 @@
 title: FAQ's
 description: frequently asked questions, with answers
 published: true
-date: 2023-06-18T10:06:51.021Z
+date: 2023-06-22T23:49:39.781Z
 tags: help
 editor: markdown
 dateCreated: 2023-06-18T09:48:51.409Z
