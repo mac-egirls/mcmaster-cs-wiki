@@ -2,7 +2,7 @@
 title: Year 4 Course List
 description: A list of courses required for Level IV of COMPSCI at McMaster University.
 published: true
-date: 2023-06-22T15:49:24.267Z
+date: 2023-06-22T15:50:33.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-22T15:49:24.267Z
@@ -30,7 +30,6 @@ Weekly tutorials, Tuesdays 12:30pm-1:20pm, Mondays 10:30am-11:20am
 - Recommended for COMPSCI 4ML3, but has been said that you do not cover much linear optimization in the course  
 
 ### COMPSCI 4ML3 - Introduction to Machine Learning
-- Has been said that COMPSCI 3DM3 (Intro to Data Mining) is a better way to prep for this course than Linear Optimization
 - Uses calc 2, stats (2d03 or 3y03), and linear algebra (1b03)
 
 See Also:
