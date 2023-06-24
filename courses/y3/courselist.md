@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-24T01:34:41.684Z
+date: 2023-06-24T01:46:21.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -64,7 +64,9 @@ Tutorial: Tuesday 1:30pm-2:20pm
 ### SFWRENG 3MX3 - Signals and Systems
 Lectures: Monday, Wednesday 11:30am-12:20pm
 Friday 1:30pm-2:20pm
-Tutorial: Wednesday 12:30pm-1:20pm OR Wednesday 2:30pm-3:20pm OR Thursday 3:30pm-4:20pm OR Tuesday 8:30am-9:20am            
+Tutorial: Wednesday 12:30pm-1:20pm OR Wednesday 2:30pm-3:20pm OR Thursday 3:30pm-4:20pm OR Tuesday 8:30am-9:20am     
+- Very math heavy
+- [Course outline for the 2022-2023 term](https://www.cas.mcmaster.ca/~mohrens/3mx3/outline.html)
 
 ## Winter
 | Code | Name | Prof | Prof Rating |
