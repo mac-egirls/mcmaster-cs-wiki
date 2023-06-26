@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-24T01:46:21.981Z
+date: 2023-06-26T21:59:53.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -72,7 +72,7 @@ Tutorial: Wednesday 12:30pm-1:20pm OR Wednesday 2:30pm-3:20pm OR Thursday 3:30pm
 | Code | Name | Prof | Prof Rating |
 |------|-----|-----|----|
 | COMPSCI 3DM3 | Intro to Data Mining| [Lingyang Chu](/professors/lingyang-chu) | 4/5 |
-| COMPSCI 3MR3 | Mobile Robots and Autonomous Systems | Unannounced (previously Stoyo but he said he ain't teaching it) | N/A |
+| COMPSCI 3MR3 | ~~Mobile Robots and Autonomous Systems~~ Course Removed for 2023 | Unannounced (previously Stoyo but he said he ain't teaching it) | N/A |
 | COMPSCI 3DP3 | Data Privacy | [Shahab Asoodeh](/professors/shahab-asoodeh) | 2.8/5 |
 | SFWRENG 3S03 | Software Testing | [Richard Paige](/professors/richard-paige) | 4.8/5 |
 | COMPSCI 4AD3 | Advanced Databases | [Fei Chiang](/professors/fei-chiang) | 3.1/5 |
