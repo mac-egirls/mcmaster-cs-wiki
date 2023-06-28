@@ -1,8 +1,8 @@
 ---
 title: Professors
-description: 
+description: A list of relevant professors.
 published: true
-date: 2023-06-22T23:49:47.271Z
+date: 2023-06-28T03:55:49.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T15:26:28.704Z
