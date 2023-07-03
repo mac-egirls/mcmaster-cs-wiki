@@ -2,7 +2,7 @@
 title: 1 - probability.md
 description: 
 published: true
-date: 2023-07-03T02:40:02.160Z
+date: 2023-07-03T02:41:15.973Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:56:50.317Z
@@ -36,14 +36,6 @@ $$\begin{aligned}
 	P(E \cap F) = 0 \\
 	P(E | F) = 0 \\
 \end{aligned}$$
-$$
-\begin{aligned}
-	E \cap F \equiv \emptyset \\
-	P(E \cap F) = 0 \\
-	P(E | F) = 0 \\
-\end{aligned}
-$$
-
 
 ### OR Rule
 $$P(E \cup F) = P(E) + P(F)$$
