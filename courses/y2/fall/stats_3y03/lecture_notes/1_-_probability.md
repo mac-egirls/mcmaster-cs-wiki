@@ -1,11 +1,11 @@
 ---
 title: 1 - probability.md
-description:
-published: false
-date: 2023-07-02 19:22:47.761197
-tags:
+description: 
+published: true
+date: 2023-07-03T02:40:02.160Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.761198
+dateCreated: 2023-06-15T03:56:50.317Z
 ---
 
 # Probability
@@ -31,13 +31,11 @@ Given events $E_1, E_2 \subseteq S$, the following are events:
 
 ## Definition
 - events are ***mutually exclusive*** if they cannot occur at the same time.
-<<<<<<< HEAD:courses/y2/fall/stats_3y03/lecture_notes/1_-_probability.md
 $$\begin{aligned}
 	E \cap F \equiv \emptyset \\
 	P(E \cap F) = 0 \\
 	P(E | F) = 0 \\
 \end{aligned}$$
-=======
 $$
 \begin{aligned}
 	E \cap F \equiv \emptyset \\
@@ -45,7 +43,6 @@ $$
 	P(E | F) = 0 \\
 \end{aligned}
 $$
->>>>>>> 2d5e078e83dabc328e25e68485abac9bdc2ac3c5:courses/y2/stats_3y03/1---probability.md
 
 
 ### OR Rule
