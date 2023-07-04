@@ -2,10 +2,10 @@
 title: 7 - Discrete Random Variables.md
 description:
 published: false
-date: 2023-07-02 19:22:47.755058
+date: 2023-07-03 00:49:52.990971
 tags:
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.755059
+dateCreated: 2023-07-03 00:49:52.990973
 ---
 
 > ***Random Variables***

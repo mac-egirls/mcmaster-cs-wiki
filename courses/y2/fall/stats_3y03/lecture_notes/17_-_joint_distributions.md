@@ -2,10 +2,10 @@
 title: 17 - joint distributions.md
 description:
 published: false
-date: 2023-07-02 19:22:47.757841
+date: 2023-07-03 00:49:52.994037
 tags:
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.757847
+dateCreated: 2023-07-03 00:49:52.994039
 ---
 
 Let $X, Y$ be two CRV's which may or may not be related.

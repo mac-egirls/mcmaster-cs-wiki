@@ -2,10 +2,10 @@
 title: 39 - single factor ANOVA techniques.md
 description:
 published: false
-date: 2023-07-02 19:22:47.755941
+date: 2023-07-03 00:49:52.992113
 tags:
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.755942
+dateCreated: 2023-07-03 00:49:52.992115
 ---
 
 - We have an experiment where we vary a single factor (expel dosage, temperature, true, etc.)

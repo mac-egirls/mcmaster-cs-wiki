@@ -2,10 +2,10 @@
 title: 26 - ch8 - statistical intervals.md
 description:
 published: false
-date: 2023-07-02 19:22:47.756496
+date: 2023-07-03 00:49:52.992699
 tags:
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.756497
+dateCreated: 2023-07-03 00:49:52.992701
 ---
 
 # Confidence Interval

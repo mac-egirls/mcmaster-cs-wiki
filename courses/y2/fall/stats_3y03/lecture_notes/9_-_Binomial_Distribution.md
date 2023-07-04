@@ -2,10 +2,10 @@
 title: 9 - Binomial Distribution.md
 description:
 published: false
-date: 2023-07-02 19:22:47.760651
+date: 2023-07-03 00:49:52.996815
 tags:
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.760652
+dateCreated: 2023-07-03 00:49:52.996817
 ---
 
 # Binomial Distribution

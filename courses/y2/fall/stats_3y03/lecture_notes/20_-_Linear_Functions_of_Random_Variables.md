@@ -2,10 +2,10 @@
 title: 20 - Linear Functions of Random Variables.md
 description:
 published: false
-date: 2023-07-02 19:22:47.759548
+date: 2023-07-03 00:49:52.995696
 tags:
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.759549
+dateCreated: 2023-07-03 00:49:52.995697
 ---
 
 > ***Linear Combination***

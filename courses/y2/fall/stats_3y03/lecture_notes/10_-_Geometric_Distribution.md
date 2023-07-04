@@ -2,10 +2,10 @@
 title: 10 - Geometric Distribution.md
 description:
 published: false
-date: 2023-07-02 19:22:47.759700
+date: 2023-07-03 00:49:52.995844
 tags:
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.759701
+dateCreated: 2023-07-03 00:49:52.995845
 ---
 
 Suppose we have a Bernoulli trial with prob. $p$ of success.
