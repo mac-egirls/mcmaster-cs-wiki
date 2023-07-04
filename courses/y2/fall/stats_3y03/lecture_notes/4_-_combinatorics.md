@@ -2,10 +2,10 @@
 title: 4 - combinatorics.md
 description:
 published: false
-date: 2023-07-03 00:49:52.994814
+date: 2023-07-02 19:22:47.758665
 tags:
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.994816
+dateCreated: 2023-07-02 19:22:47.758666
 ---
 
 We want to get from situation 1 to situation 2

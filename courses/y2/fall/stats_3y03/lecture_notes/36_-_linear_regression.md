@@ -2,10 +2,10 @@
 title: 36 - linear regression.md
 description:
 published: false
-date: 2023-07-03 00:49:52.993413
+date: 2023-07-02 19:22:47.757230
 tags:
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.993414
+dateCreated: 2023-07-02 19:22:47.757232
 ---
 
 ### Idea

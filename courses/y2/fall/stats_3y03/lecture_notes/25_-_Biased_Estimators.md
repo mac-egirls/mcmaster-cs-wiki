@@ -2,10 +2,10 @@
 title: 25 - Biased Estimators.md
 description:
 published: false
-date: 2023-07-03 00:49:52.991227
+date: 2023-07-02 19:22:47.755229
 tags:
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.991231
+dateCreated: 2023-07-02 19:22:47.755231
 ---
 
 - Technique for choosing an unbiased estimator:

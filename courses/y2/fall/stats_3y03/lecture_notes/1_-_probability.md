@@ -1,9 +1,9 @@
 ---
 title: 1 - probability.md
-description:
-published: false
-date: 2023-07-03 00:49:52.997375
-tags:
+description: 
+published: true
+date: 2023-07-03T02:41:15.973Z
+tags: 
 editor: markdown
 dateCreated: 2023-07-03 00:49:52.997377
 ---
@@ -36,7 +36,6 @@ $$\begin{aligned}
 	P(E \cap F) = 0 \\
 	P(E | F) = 0 \\
 \end{aligned}$$
-
 
 ### OR Rule
 $$P(E \cup F) = P(E) + P(F)$$

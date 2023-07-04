@@ -2,10 +2,10 @@
 title: 32 - Hypotehesis Testing.md
 description:
 published: false
-date: 2023-07-03 00:49:52.995164
+date: 2023-07-02 19:22:47.759019
 tags:
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.995165
+dateCreated: 2023-07-02 19:22:47.759021
 ---
 
 2022-11-15
