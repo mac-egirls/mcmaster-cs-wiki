@@ -5,7 +5,7 @@ published: true
 date: 2023-07-03T02:41:15.973Z
 tags: 
 editor: markdown
-dateCreated: 2023-06-15T03:56:50.317Z
+dateCreated: 2023-07-03 00:49:52.997377
 ---
 
 # Probability
