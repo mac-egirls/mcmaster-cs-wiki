@@ -1,11 +1,11 @@
 ---
 title: 39 - single factor ANOVA techniques.md
-description:
-published: false
-date: 2023-07-02 19:22:47.755941
-tags:
+description: 
+published: true
+date: 2023-07-10T21:21:54.407Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.755942
+dateCreated: 2023-07-03T00:29:33.914Z
 ---
 
 - We have an experiment where we vary a single factor (expel dosage, temperature, true, etc.)
@@ -25,10 +25,12 @@ $$\begin{aligned}
     1. *Balanced test*: $n_i = n$, all samples same size
     2. *Assume* $\sum_{i=1}^a \tau_i = 0$
 - Second assumptions allows us to test the hypothesis
+
 $$\begin{aligned}
     H_0&: \tau_1 = \tau_2 = \dots = \tau_a = 0 \\
     H_1&: \text{ there is at least one $i$ such that $\tau_i \ne 0$}
 \end{aligned}$$
+
 
 We now sample some data:
 $$\begin{aligned}
