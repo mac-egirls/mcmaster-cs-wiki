@@ -2,7 +2,7 @@
 title: 12 - poisson distribution.md
 description: 
 published: true
-date: 2023-08-18T20:53:01.370Z
+date: 2023-08-18T20:53:21.137Z
 tags: stats, 3y03
 editor: markdown
 dateCreated: 2023-07-03T00:27:17.382Z
