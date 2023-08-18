@@ -1,11 +1,11 @@
 ---
 title: 12 - poisson distribution.md
-description:
-published: false
-date: 2023-07-02 19:22:47.756348
-tags:
+description: 
+published: true
+date: 2023-08-18T20:53:01.370Z
+tags: stats, 3y03
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.756349
+dateCreated: 2023-07-03T00:27:17.382Z
 ---
 
 - The poisson distribution decides events which occur randomly in an interval at a fixed rate.
