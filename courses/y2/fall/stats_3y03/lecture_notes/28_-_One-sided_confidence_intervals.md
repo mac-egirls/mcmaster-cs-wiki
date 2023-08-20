@@ -1,11 +1,11 @@
 ---
 title: 28 - One-sided confidence intervals.md
-description:
-published: false
-date: 2023-07-02 19:22:47.754231
-tags:
+description: 
+published: true
+date: 2023-07-03T00:28:39.126Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.754245
+dateCreated: 2023-07-03T00:28:35.407Z
 ---
 
 2022-11-10

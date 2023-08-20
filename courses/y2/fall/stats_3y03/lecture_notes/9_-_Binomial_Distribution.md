@@ -1,11 +1,11 @@
 ---
 title: 9 - Binomial Distribution.md
-description:
-published: false
-date: 2023-07-02 19:22:47.760651
-tags:
+description: 
+published: true
+date: 2023-07-03T00:30:11.251Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.760652
+dateCreated: 2023-07-03T00:30:07.931Z
 ---
 
 # Binomial Distribution

@@ -1,11 +1,11 @@
 ---
 title: 8 - programming and hoare logic.md
-description:
-published: false
-date: 2023-07-03 00:49:52.981524
-tags:
+description: 
+published: true
+date: 2023-07-04T04:12:00.478Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.981526
+dateCreated: 2023-07-04T04:11:57.211Z
 ---
 
 ![](/images/20221031175235.png)

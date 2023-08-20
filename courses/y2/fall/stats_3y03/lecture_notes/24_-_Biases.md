@@ -1,11 +1,11 @@
 ---
 title: 24 - Biases.md
-description:
-published: false
-date: 2023-07-02 19:22:47.756659
-tags:
+description: 
+published: true
+date: 2023-07-03T00:28:20.394Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.756663
+dateCreated: 2023-07-03T00:28:16.346Z
 ---
 
 - A random sample is $(X_1, \cdots, X_n)$ as iid (*independent and identically distributed*) sequence of RV's

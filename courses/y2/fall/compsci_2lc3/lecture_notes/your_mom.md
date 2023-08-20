@@ -1,11 +1,11 @@
 ---
 title: your mom.md
-description:
-published: false
-date: 2023-07-03 00:49:52.981216
-tags:
+description: 
+published: true
+date: 2023-07-04T04:12:07.625Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.981218
+dateCreated: 2023-07-04T04:12:05.039Z
 ---
 
 $$\begin{gather*}

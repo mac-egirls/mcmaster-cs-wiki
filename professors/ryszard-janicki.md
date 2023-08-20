@@ -2,7 +2,7 @@
 title: Ryszard Janicki
 description: 
 published: true
-date: 2023-06-22T23:50:26.620Z
+date: 2023-08-20T00:11:17.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-16T00:16:27.861Z

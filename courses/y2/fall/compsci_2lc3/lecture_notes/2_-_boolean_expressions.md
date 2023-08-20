@@ -1,11 +1,11 @@
 ---
 title: 2 - boolean expressions.md
-description:
-published: false
-date: 2023-07-03 00:49:52.982481
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:53.507Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.982482
+dateCreated: 2023-07-04T04:11:28.877Z
 ---
 
 # Boolean Expressions

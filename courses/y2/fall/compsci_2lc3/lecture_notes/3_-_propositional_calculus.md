@@ -1,11 +1,11 @@
 ---
 title: 3 - propositional calculus.md
-description:
-published: false
-date: 2023-07-03 00:49:52.981755
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:56.309Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.981756
+dateCreated: 2023-07-04T04:11:32.846Z
 ---
 
 > ***Definitions***

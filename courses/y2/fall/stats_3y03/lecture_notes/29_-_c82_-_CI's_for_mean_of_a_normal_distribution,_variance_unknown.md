@@ -1,0 +1,66 @@
+---
+title: 29 - c8.2 - CI's for mean of a normal distribution, variance unknown.md
+description: 
+published: true
+date: 2023-07-03T00:28:43.593Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-03T00:28:40.157Z
+---
+
+2022-11-10
+
+- Assume we are sampling from a population which we know is normally distributed, $N(\mu, \sigma^2)$, where we know neither $\sigma^2$ nor $\mu$.
+    - If $n$ is very big, then $\frac{\overline X - \mu}{\frac{s}{\sqrt{n}}} \approx N(0, 1)$
+- What should we do if we can't guarantee $n$ is large?
+    - Answer: introduce a new (family) of distributions.
+
+> ***Definition***
+> If our sample size is $n$, then we say
+> $$\begin{aligned}
+>     T = \frac{\overline X - \mu}{\frac{s}{\sqrt{n}}}
+> \end{aligned}$$
+> 
+> has a student's T-distribution with $n-1$ degrees of freedom (how many standard deviations it is from the mean)
+> - $\overline X$ - the estimate for $\mu$
+> - 
+> 
+> $$\begin{aligned}
+>     T = \frac{\overline X - \mu}{\frac{s}{\sqrt{n}}} \to N(0, 1)
+> \end{aligned}$$
+> - Depends only on $n$
+> - as $n \to \infty$
+
+has a student's t-distribution with $n-1$ degrees of freedom.
+- As $n \to \infty$, $T_{n-1} \to N(0, 1)$
+- To find a $100(1 - \alpha)\%$ CI on the mean of a normal distribution, variance unknown, we find a number $t_{\frac{\alpha}{2}, n-1}$ such that
+> ***$100(1 - \alpha)\%$ CI on the mean***
+> $$\begin{aligned}
+>     P\left(-t_{\frac{\alpha}{2}, n-1} \le T_{n-1} \le t_{\frac{\alpha}{2}}, n-1\right)&= 1 - \alpha \\
+>     P\left(\overline X - \left(t_{\frac{\alpha}{2}, n-1}\right) \frac{S}{\sqrt{n}} \le \mu \le \overline X + \left(t_{\frac{\alpha}{2}, n-1}\right) \frac{S}{\sqrt{n}}\right) &= 1 - \alpha
+> \end{aligned}$$
+
+#### Example
+Out of all the Stats 3Y03/3J04 students, 12 write the upcoming test early. We found $\overline x = 77\%$, $s = 13.6\%$. Find a $95\%$ CI on the mean of the entire class.
+
+##### Solution
+$$\begin{aligned}
+    100(1 - \alpha) &= 95 \\
+    \alpha &= 0.05 \\
+    \frac{\alpha}{2} &= 0.025
+\end{aligned}$$
+
+We know the end points of a CI will be
+$$\begin{aligned}
+    \overline x \pm \left(t_{\frac{\alpha}{2}, 11}\right) \frac{s}{\sqrt{12}} 
+    &= 
+        0.77 \pm \left(t_{0.025, 11}\right) \frac{0.136}{\sqrt{12}}
+    \\&= 
+        0.77 \pm \left(2.201\right) \frac{0.136}{\sqrt{12}}
+    \\&=
+        0.77 \pm 0.0867
+\end{aligned}$$
+
+##### Remark
+One sided CI's are similar; use $t_{\alpha, n-1}$ instead of $t_{\frac{\alpha}{2}, n-1}$.
+

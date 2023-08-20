@@ -1,11 +1,11 @@
 ---
 title: 8 - Expected Value and Variance.md
-description:
-published: false
-date: 2023-07-02 19:22:47.760030
-tags:
+description: 
+published: true
+date: 2023-07-03T00:30:06.868Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.760031
+dateCreated: 2023-07-03T00:30:03.213Z
 ---
 
 > ***Expected Value***

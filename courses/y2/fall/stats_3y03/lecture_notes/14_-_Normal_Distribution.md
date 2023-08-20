@@ -1,11 +1,11 @@
 ---
 title: 14 - Normal Distribution.md
-description:
-published: false
-date: 2023-07-02 19:22:47.760799
-tags:
+description: 
+published: true
+date: 2023-07-03T00:27:30.102Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.760801
+dateCreated: 2023-07-03T00:27:26.435Z
 ---
 
 2022-10-06

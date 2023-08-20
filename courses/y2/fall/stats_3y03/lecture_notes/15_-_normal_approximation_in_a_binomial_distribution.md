@@ -1,11 +1,11 @@
 ---
 title: 15 - normal approximation in a binomial distribution.md
-description:
-published: false
-date: 2023-07-02 19:22:47.757672
-tags:
+description: 
+published: true
+date: 2023-07-03T00:27:34.713Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.757673
+dateCreated: 2023-07-03T00:27:31.226Z
 ---
 
 > ***Normal Approximation in a Binomial Distribution***

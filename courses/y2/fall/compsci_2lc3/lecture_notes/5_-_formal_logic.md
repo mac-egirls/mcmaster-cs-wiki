@@ -1,11 +1,11 @@
 ---
 title: 5 - formal logic.md
-description:
-published: false
-date: 2023-07-03 00:49:52.980342
-tags:
+description: 
+published: true
+date: 2023-08-19T23:28:02.405Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.980349
+dateCreated: 2023-07-04T04:11:40.115Z
 ---
 
 # proof theory

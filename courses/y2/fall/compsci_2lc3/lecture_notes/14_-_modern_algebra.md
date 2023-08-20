@@ -1,11 +1,11 @@
 ---
 title: 14 - modern algebra.md
-description:
-published: false
-date: 2023-07-03 00:49:52.982926
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:46.736Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.982928
+dateCreated: 2023-07-04T04:11:19.717Z
 ---
 
 2022-12-07

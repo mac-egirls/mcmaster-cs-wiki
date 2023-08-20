@@ -1,11 +1,11 @@
 ---
 title: 1 - textual substitution, equality, and assignment.md
-description:
-published: false
-date: 2023-07-03 00:49:52.982231
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:50.537Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.982233
+dateCreated: 2023-07-04T04:11:24.262Z
 ---
 
 # LN1-2022

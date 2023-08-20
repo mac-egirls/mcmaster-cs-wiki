@@ -1,11 +1,11 @@
 ---
 title: 11 - relations and functions.md
-description:
-published: false
-date: 2023-07-03 00:49:52.981321
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:39.872Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.981323
+dateCreated: 2023-07-04T04:11:10.934Z
 ---
 
 # Tuples

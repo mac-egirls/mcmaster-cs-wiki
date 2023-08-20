@@ -1,11 +1,11 @@
 ---
 title: 33 - P-value.md
-description:
-published: false
-date: 2023-07-02 19:22:47.754460
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:06.241Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.754463
+dateCreated: 2023-07-03T00:29:01.783Z
 ---
 
 - Fix a significance level $\alpha$.

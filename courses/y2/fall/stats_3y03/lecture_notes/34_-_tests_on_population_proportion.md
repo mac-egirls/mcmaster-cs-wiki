@@ -1,11 +1,11 @@
 ---
 title: 34 - tests on population proportion.md
-description:
-published: false
-date: 2023-07-02 19:22:47.758844
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:11.502Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.758845
+dateCreated: 2023-07-03T00:29:07.346Z
 ---
 
 2022-11-24

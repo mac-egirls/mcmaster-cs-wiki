@@ -1,11 +1,11 @@
 ---
 title: 31 - Confidence intervals continued.md
-description:
-published: false
-date: 2023-07-02 19:22:47.757518
-tags:
+description: 
+published: true
+date: 2023-07-03T00:28:56.020Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.757519
+dateCreated: 2023-07-03T00:28:52.515Z
 ---
 
 2022-11-15

@@ -2,7 +2,7 @@
 title: 39 - single factor ANOVA techniques.md
 description: 
 published: true
-date: 2023-07-10T21:21:54.407Z
+date: 2023-07-10T21:21:58.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-03T00:29:33.914Z

@@ -1,11 +1,11 @@
 ---
 title: 5 - conditional probability.md
-description:
-published: false
-date: 2023-07-02 19:22:47.757077
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:56.947Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.757079
+dateCreated: 2023-07-03T00:29:53.723Z
 ---
 
 > *** Drawing an Ace with Friend***

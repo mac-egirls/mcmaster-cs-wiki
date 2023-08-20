@@ -1,0 +1,45 @@
+---
+title: 9.3 - unified device or memory address space.md
+description: 
+published: true
+date: 2023-07-04T04:11:06.151Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-04T04:11:03.779Z
+---
+
+# Bus Address Space
+- All devices connected to the bus see the data/address/control bits sent
+- Only device with matching address responds
+- Every device on bus as a unique set of addresses assigned.
+
+![](/images/20221128104337.png)
+
+- each address corresponds to a particular device function
+- Unique addresses: each socket has a range pre-assigned.
+
+# Unified Address Space
+- I/O device addresses are in the same space as memory addresses
+- Fetch/store to device same as fetch/store to memory
+- MMU manages address allocation and raises faults when accessing a *hole* in address space
+![](/images/20221128105514.png)
+
+
+# I/O Bridge
+- Q: How is all this data flow managed on a single bus?
+- Answer: it is not
+- A modern architecture has one primary bus and several auxiliary buses
+- Connection between buses done by a *bridge*
+
+![](/images/20221128110028.png)
+
+> ***I/O bridge***
+> A device that connects between two buses, provides address translation, and relays data. Typically has two interface controllers, one for each bus.
+
+# Bridging and Address Spaces
+- Bridge provides address translation in the unified address space
+- Addresses on the main bus can be kept constant, mapped differently on auxiliary bus
+
+![](/images/20221128110854.png)
+
+

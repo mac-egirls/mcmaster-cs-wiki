@@ -1,11 +1,11 @@
 ---
 title: 10 - induction and loops.md
-description:
-published: false
-date: 2023-07-03 00:49:52.982073
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:36.377Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.982075
+dateCreated: 2023-07-04T04:11:07.298Z
 ---
 
 > ***Axiom: Mathematical Induction over $\mathbb N$***

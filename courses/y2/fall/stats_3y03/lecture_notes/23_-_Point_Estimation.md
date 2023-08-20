@@ -1,11 +1,11 @@
 ---
 title: 23 - Point Estimation.md
-description:
-published: false
-date: 2023-07-02 19:22:47.756184
-tags:
+description: 
+published: true
+date: 2023-07-03T00:28:15.255Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.756186
+dateCreated: 2023-07-03T00:28:12.052Z
 ---
 
 - ***parameter*** - any numerical property/feature of a distribution.

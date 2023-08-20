@@ -1,11 +1,11 @@
 ---
 title: 4 - combinatorics.md
-description:
-published: false
-date: 2023-07-02 19:22:47.758665
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:52.654Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.758666
+dateCreated: 2023-07-03T00:29:48.712Z
 ---
 
 We want to get from situation 1 to situation 2

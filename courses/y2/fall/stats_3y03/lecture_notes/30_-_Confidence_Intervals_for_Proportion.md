@@ -1,11 +1,11 @@
 ---
 title: 30 - Confidence Intervals for Proportion.md
-description:
-published: false
-date: 2023-07-02 19:22:47.755690
-tags:
+description: 
+published: true
+date: 2023-07-03T00:28:51.339Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.755691
+dateCreated: 2023-07-03T00:28:48.095Z
 ---
 
 2022-11-11

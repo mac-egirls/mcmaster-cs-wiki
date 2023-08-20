@@ -1,0 +1,43 @@
+---
+title: 6.1 - cpus.md
+description: 
+published: true
+date: 2023-07-04T04:10:22.081Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-04T04:10:19.681Z
+---
+
+# abstraction to the rescue
+- Hardware needs to be very complex to answer demands
+- Difficult to design hardware
+- Turn design and verification into a programming problem
+- Microcode is a way to offload some complexity to software
+
+# cpu protection modes
+- microcode key for implementing execution modes
+- not all instructions available for all "users"
+- E.g., some instructions only available for boot loader, others only for OS.
+- protected regions in memory, protected instructions
+
+# microcode
+- *A way to instruct the processor how to implement an instruction*
+    - Way to implement more instructions with lower level instructions
+- One instruction set visible to programmer
+- Different instruction set available internally
+- Macro instructions are coded in microcode
+- Microcontroller(s) process microcode to emulate macrocode
+
+![](/images/20221027110931.png)
+
+## Pros
+- Less prone to errors compared to hardware design
+- easier to implement
+- Ease of extension and modification
+- Offers another level of abstraction
+
+## Cons
+- More overhead than dedicated hardware design
+- Variable cost for macro instructions. Depends on number of micro instructions
+- Microcontroller needs to run very fast
+

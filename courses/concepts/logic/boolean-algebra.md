@@ -2,7 +2,7 @@
 title: Boolean Algebra
 description: branch of algebra dealing with binary true/false values
 published: true
-date: 2023-06-18T00:18:35.303Z
+date: 2023-08-20T00:11:41.854Z
 tags: logic
 editor: markdown
 dateCreated: 2023-06-17T12:07:36.812Z

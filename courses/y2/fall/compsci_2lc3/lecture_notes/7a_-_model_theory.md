@@ -1,11 +1,11 @@
 ---
 title: 7a - model theory.md
-description:
-published: false
-date: 2023-07-03 00:49:52.981081
-tags:
+description: 
+published: true
+date: 2023-08-19T23:28:12.421Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.981083
+dateCreated: 2023-07-04T04:11:53.168Z
 ---
 
 ![](/images/20221031141915.png)

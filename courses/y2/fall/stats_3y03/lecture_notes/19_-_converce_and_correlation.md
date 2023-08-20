@@ -1,11 +1,11 @@
 ---
 title: 19 - converce and correlation.md
-description:
-published: false
-date: 2023-07-02 19:22:47.758163
-tags:
+description: 
+published: true
+date: 2023-07-03T00:27:54.193Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.758165
+dateCreated: 2023-07-03T00:27:49.869Z
 ---
 
 > ***converse and correlation***

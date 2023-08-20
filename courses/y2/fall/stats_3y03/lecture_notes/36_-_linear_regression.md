@@ -1,11 +1,11 @@
 ---
 title: 36 - linear regression.md
-description:
-published: false
-date: 2023-07-02 19:22:47.757230
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:22.629Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.757232
+dateCreated: 2023-07-03T00:29:18.139Z
 ---
 
 ### Idea

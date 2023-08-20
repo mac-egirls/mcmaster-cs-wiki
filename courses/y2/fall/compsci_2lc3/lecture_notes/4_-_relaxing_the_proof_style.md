@@ -1,11 +1,11 @@
 ---
 title: 4 - relaxing the proof style.md
-description:
-published: false
-date: 2023-07-03 00:49:52.982362
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:59.086Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.982363
+dateCreated: 2023-07-04T04:11:36.454Z
 ---
 
 ![](/images/20220922093241.png)

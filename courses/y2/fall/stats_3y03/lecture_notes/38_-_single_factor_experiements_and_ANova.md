@@ -1,11 +1,11 @@
 ---
 title: 38 - single factor experiements and ANova.md
-description:
-published: false
-date: 2023-07-02 19:22:47.754810
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:32.873Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.754812
+dateCreated: 2023-07-03T00:29:29.437Z
 ---
 
 2022-12-02

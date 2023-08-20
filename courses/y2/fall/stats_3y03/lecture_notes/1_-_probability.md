@@ -2,10 +2,10 @@
 title: 1 - probability.md
 description: 
 published: true
-date: 2023-07-03T02:41:15.973Z
+date: 2023-07-04T04:12:11.739Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.997377
+dateCreated: 2023-06-15T03:56:50.317Z
 ---
 
 # Probability

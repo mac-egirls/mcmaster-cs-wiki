@@ -1,11 +1,11 @@
 ---
 title: 35  - tests or CI on the difference of two means of normal distributions with variance unknown.md
-description:
-published: false
-date: 2023-07-02 19:22:47.759380
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:17.074Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.759382
+dateCreated: 2023-07-03T00:29:12.567Z
 ---
 
 # Testing

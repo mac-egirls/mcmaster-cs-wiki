@@ -1,11 +1,11 @@
 ---
 title: 40 - Confidence Intervals for the treatment means or effects.md
-description:
-published: false
-date: 2023-07-02 19:22:47.759216
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:47.626Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.759217
+dateCreated: 2023-07-03T00:29:43.638Z
 ---
 
 - Recall the treatment *means* are

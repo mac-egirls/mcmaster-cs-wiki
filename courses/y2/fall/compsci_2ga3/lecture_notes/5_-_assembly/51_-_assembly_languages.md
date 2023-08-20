@@ -1,0 +1,131 @@
+---
+title: 5.1 - assembly languages.md
+description: 
+published: true
+date: 2023-07-04T04:10:11.656Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-04T04:10:09.316Z
+---
+
+# high and low level languages
+## high level languages
+- one to many translation
+- hardware independent
+- application oriented
+- general purpose
+- powerful abstractions
+
+## low level languages
+- one to one translation
+- hardware specific
+- systems programming oriented
+- special purpose
+- few abstractions
+
+# use cases
+- programming microcontrollers for specific hardware interface
+- device driver code (lower half)
+- boot loaders
+- memory controllers
+
+# assembly syntax
+```
+[label:] op_name [operand1, operand2...] # comment
+```
+- comments are essential for readability and maintenance
+    - line comments: document result of the line
+    - block comments: explain high-level logic for following code block
+- operand order is (not) standard
+- operand encoding:
+    - register addresses use unique symbolic names (`r0..rX, acc, cmp`)
+    - memory addresses as immediate values or symbolic variables defined in data section
+
+# basic patterns
+## conditions
+### high level language
+```c
+if (a==0) {
+    // conditino holds block
+}
+// program continues
+```
+
+### low level language
+```armasm
+cmp r0,1   ; compute conditino flag
+bne false  ; if conditino does not hold, branch to false
+; conditin holds block
+false:     ; program continues
+```
+
+## for loop
+### high level language
+```c
+for (int i = 0; i<N; ++i) {
+    // loop body
+}
+// program continues
+```
+
+### low level language
+```armasm
+load r0, 0          ; r0 is loop counter=0
+
+for:
+    cmp r0, r10     ; compute condition, set flag
+    be endfor       ; branch endfor on equal (be)
+    
+    ; loop body code goes here
+    
+    add r0, r0, r1  ; increment r0
+    jump for        ; back to loop
+endfor:
+; program continues
+```
+
+## while loop
+### high level language
+```c
+while (cond) {
+    // loop body
+}
+// program continues
+```
+
+### low level language
+```armasm
+while:
+    ; compute condition, set flag
+    bne endwhile      ; condition does not hold, branch to endwhile
+    ; loop body code goes here
+    
+    jump while        ; back to loop
+endwhile:
+; program continues
+```
+
+# subroutines and functions
+```armasm
+funct_x:
+    ; subroutine body code
+    return ; returns to call
+    
+main:
+    ; main code body
+    jsr funct_x ; jump to subroutine
+    ; main body continues
+```
+- register windows for passing arguments and retrieving results
+
+# assembly macros
+```armasm
+macro addmem a,b,c   ; macro definition
+    load  a, r1      ; load memory to r1
+    load  b, r2      ; load memory to r2
+    add   r3, r1, r2 ; add data, store in r3
+    store r3, c      ; copy result to memory
+```
+- call macro in main function `addmem 0x00F1 0x1234 0xAC32
+- pre-processor copy-pastes in place
+- no checks done by pre-processor

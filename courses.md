@@ -2,7 +2,7 @@
 title: Courses
 description: 
 published: true
-date: 2023-07-19T08:51:58.963Z
+date: 2023-08-20T00:10:31.251Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-26T21:58:13.636Z

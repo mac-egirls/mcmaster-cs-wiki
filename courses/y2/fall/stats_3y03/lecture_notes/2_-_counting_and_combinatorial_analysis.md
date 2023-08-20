@@ -1,11 +1,11 @@
 ---
 title: 2 - counting and combinatorial analysis.md
-description:
-published: false
-date: 2023-07-02 19:22:47.760200
-tags:
+description: 
+published: true
+date: 2023-07-03T00:28:47.072Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.760202
+dateCreated: 2023-07-03T00:28:44.663Z
 ---
 
 # Counting and Combinatorial Analysis

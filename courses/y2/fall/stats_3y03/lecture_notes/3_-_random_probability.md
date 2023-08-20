@@ -1,11 +1,11 @@
 ---
 title: 3 - random probability.md
-description:
-published: false
-date: 2023-07-02 19:22:47.759853
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:42.602Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.759854
+dateCreated: 2023-07-03T00:29:38.920Z
 ---
 
 Suppose we have a random experiment, with a sample space, $S$,

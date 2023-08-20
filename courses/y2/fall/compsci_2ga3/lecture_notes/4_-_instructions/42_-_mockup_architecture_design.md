@@ -1,0 +1,48 @@
+---
+title: 4.2 - mockup architecture design.md
+description: 
+published: true
+date: 2023-07-04T04:10:01.416Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-04T04:09:58.813Z
+---
+
+2022-10-17
+
+# Implementing the Architecture
+![](/images/20221017104204.png)
+- Job is to increment the instruction pointer. 
+- Adds 4 bits since each address is 4 bits wide. The result is that the pointer moves 4 bytes in memory
+- 16 bit architecture adding 2 bits, 664 bit architecture adding 8 bits
+
+![](/images/20221006111123.png|400)asted image 20221006111123.png|400]]
+- Data out - the instruction itself
+
+![](/images/20221017104819.png|400)asted image 20221017104819.png|400]]
+- `A` - 4 bits, `B` - 4 bits, `dst` - 4 bits, `offset` - 15 bits, `opcode` - 5 bits
+- 32 bits total
+
+![](/images/20221017105106.png|)asted image 20221017105106.png|]]
+- data in - 32 bit dat value
+- `rA`, `rB` - 32 bits each
+
+![](/images/20221017105430.png)
+- multiplexer - chooses which inpuh
+    - Multiplexer knows when to do a certain instruction by the controller that's behind the scenes.
+
+# Performing Instructions
+## Adding Instruction
+![](/images/20221017110757.png)
+
+## Load Instruction
+![](/images/20221017111133.png)
+
+## Store Instruction
+![](/images/20221017111344.png)
+- M3 can be either 1 or 0
+
+## Jump Instruction
+![](/images/20221017111457.png)
+- M3 can be either 1 or 0
+

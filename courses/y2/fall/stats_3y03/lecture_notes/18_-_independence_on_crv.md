@@ -1,11 +1,11 @@
 ---
 title: 18 - independence on crv.md
-description:
-published: false
-date: 2023-07-02 19:22:47.758354
-tags:
+description: 
+published: true
+date: 2023-07-03T00:27:48.788Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.758356
+dateCreated: 2023-07-03T00:27:45.537Z
 ---
 
 $X, Y$ are continuous, with joint distribution $f_{X, y}(x, y)$. Then if $f_{XY}$ is 0 outside of a region $R$, then

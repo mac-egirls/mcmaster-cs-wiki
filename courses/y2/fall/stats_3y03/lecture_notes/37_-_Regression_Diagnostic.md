@@ -1,11 +1,11 @@
 ---
 title: 37 - Regression Diagnostic.md
-description:
-published: false
-date: 2023-07-02 19:22:47.755404
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:28.340Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.755406
+dateCreated: 2023-07-03T00:29:23.702Z
 ---
 
 # Diagnostics

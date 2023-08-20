@@ -2,7 +2,7 @@
 title: Professors
 description: A list of relevant professors.
 published: true
-date: 2023-06-28T03:55:49.910Z
+date: 2023-08-20T00:10:38.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T15:26:28.704Z

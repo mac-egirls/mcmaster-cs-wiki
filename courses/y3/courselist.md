@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-06-26T21:59:53.074Z
+date: 2023-08-20T00:11:36.843Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z

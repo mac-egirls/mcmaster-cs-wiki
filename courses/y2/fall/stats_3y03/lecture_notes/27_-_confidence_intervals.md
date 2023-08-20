@@ -1,11 +1,11 @@
 ---
 title: 27 - confidence intervals.md
-description:
-published: false
-date: 2023-07-02 19:22:47.760971
-tags:
+description: 
+published: true
+date: 2023-07-03T00:28:34.348Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.760972
+dateCreated: 2023-07-03T00:28:30.018Z
 ---
 
 2022-11-08

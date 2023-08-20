@@ -1,11 +1,11 @@
 ---
 title: 32 - Hypotehesis Testing.md
-description:
-published: false
-date: 2023-07-02 19:22:47.759019
-tags:
+description: 
+published: true
+date: 2023-07-03T00:29:00.737Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.759021
+dateCreated: 2023-07-03T00:28:57.058Z
 ---
 
 2022-11-15

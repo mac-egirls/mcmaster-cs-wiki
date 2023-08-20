@@ -1,11 +1,11 @@
 ---
 title: 13 - continuous random variable.md
-description:
-published: false
-date: 2023-07-02 19:22:47.760295
-tags:
+description: 
+published: true
+date: 2023-07-03T00:27:25.374Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-02 19:22:47.760296
+dateCreated: 2023-07-03T00:27:21.299Z
 ---
 
 2022-10-04

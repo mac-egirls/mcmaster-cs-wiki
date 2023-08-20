@@ -1,11 +1,11 @@
 ---
 title: 6 - quantification.md
-description:
-published: false
-date: 2023-07-03 00:49:52.980598
-tags:
+description: 
+published: true
+date: 2023-08-19T23:28:06.145Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.980600
+dateCreated: 2023-07-04T04:11:44.403Z
 ---
 
 - Can express quantification by

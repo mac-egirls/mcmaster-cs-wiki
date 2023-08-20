@@ -1,11 +1,11 @@
 ---
 title: 13 - Equivalence Relations and Partial Orders.md
-description:
-published: false
-date: 2023-07-03 00:49:52.982625
-tags:
+description: 
+published: true
+date: 2023-08-19T23:27:43.269Z
+tags: 
 editor: markdown
-dateCreated: 2023-07-03 00:49:52.982626
+dateCreated: 2023-07-04T04:11:15.489Z
 ---
 
 > ***Definition***
