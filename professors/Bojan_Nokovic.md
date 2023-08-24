@@ -2,7 +2,7 @@
 title: Bojan Nokovic
 description: 
 published: true
-date: 2023-08-24T00:23:40.571Z
+date: 2023-08-24T00:28:42.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-24T00:23:40.571Z
@@ -12,6 +12,7 @@ dateCreated: 2023-08-24T00:23:40.571Z
 Email: nokovib@mcmaster.ca
 Office: 
 
+Website: https://www.cas.mcmaster.ca/~nokovib/
 
 # RateMyProfessor
 https://www.ratemyprofessors.com/professor/2636470
