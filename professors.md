@@ -2,13 +2,14 @@
 title: Professors
 description: A list of relevant professors.
 published: true
-date: 2023-08-20T00:10:38.851Z
+date: 2023-08-24T00:24:36.411Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T15:26:28.704Z
 ---
 
 # Faculty of Engineering
+[Bojan Nokovic](/professors/Bojan_Nokovic)
 [Emil Sekerinski](/professors/emil-sekerinski)
 [Fei Chiang](/professors/fei-chiang)
 [Jacques Carette](/professors/jacques-carette)
