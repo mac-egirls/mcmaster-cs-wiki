@@ -2,7 +2,7 @@
 title: Outline
 description: Summary of the outline for COMPSCI 3IS3: Information Security at McMaster University
 published: true
-date: 2023-09-05T17:42:31.420Z
+date: 2023-09-05T17:44:56.174Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-05T17:40:02.630Z
@@ -25,8 +25,10 @@ dateCreated: 2023-09-05T17:40:02.630Z
 - **Prerequisites**: COMPSCI 2AC3 or 2FA3 or SFWRENG 2FA3, and COMPSCI 2C03 or SFWRENG 2C03.
 
 - **Textbooks**: 
-  - "Applied Information Security" by Basin, Schaller, Schlapfer
-  - "Understanding Cryptography" by Christof Paar and Jan Pelzl (Primary reference for cryptography)
+  - ["Applied Information Security" by Basin, Schaller, Schlapfer](https://cdn.discordapp.com/attachments/1136145444595040296/1148674383594917929/3IS3_applied_info_sec.pdf)
+  	- [alt link](https://link.springer.com/book/10.1007/978-3-642-24474-2)
+  - ["Understanding Cryptography" by Christof Paar and Jan Pelzl (Primary reference for cryptography)](https://cdn.discordapp.com/attachments/1136145444595040296/1148674384391843872/3IS3_understanding_cryptography.pdf)
+  	- [alt link](https://link.springer.com/book/10.1007/978-3-642-04101-3)
   - "Security in Computing" by Charles P. Fleeger, Shari Lawrence Pfleeger, and Jonathan Margulies
 
 - **Course Structure**: 3 hours of lectures, 1 hour of lab.
