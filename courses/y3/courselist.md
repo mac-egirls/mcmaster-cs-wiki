@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-08-24T00:25:23.024Z
+date: 2023-09-05T17:39:24.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -15,8 +15,8 @@ This information is accurate as of 2023-06-14
 
 | Code | Name | Prof | Prof Rating |
 |------|-----|-----|----|
-| COMPSCI 3MI3 | Principles of Programming Languages| [Jacques Carette](/professors/jacques-carette) | 1.9/5 |
-| COMPSCI 3SH3 | Computer Science Practice and Experience: Operating Systems | [Bojan Nokovic](/professors/Bojan_Nokovic) | 3/5 |
+| [COMPSCI 3MI3](/courses/y3/3mi3) | Principles of Programming Languages| [Jacques Carette](/professors/jacques-carette) | 1.9/5 |
+| [COMPSCI 3SH3](/courses/y3/3sh3) | Computer Science Practice and Experience: Operating Systems | [Bojan Nokovic](/professors/Bojan_Nokovic) | 3/5 |
 
 
 **and one of:**
