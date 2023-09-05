@@ -2,7 +2,7 @@
 title: Outline
 description: Summary of the outline for COMPSCI 3IS3: Information Security at McMaster University
 published: true
-date: 2023-09-05T17:41:57.101Z
+date: 2023-09-05T17:42:31.420Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-05T17:40:02.630Z
