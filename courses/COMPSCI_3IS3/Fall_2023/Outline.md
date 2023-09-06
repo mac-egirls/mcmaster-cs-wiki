@@ -2,7 +2,7 @@
 title: Outline
 description: Summary of the outline for COMPSCI 3IS3: Information Security at McMaster University
 published: true
-date: 2023-09-06T00:22:19.720Z
+date: 2023-09-06T01:31:46.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-05T17:40:02.630Z
@@ -29,7 +29,8 @@ dateCreated: 2023-09-05T17:40:02.630Z
   	- [alt link](https://link.springer.com/book/10.1007/978-3-642-24474-2)
   - ["Understanding Cryptography" by Christof Paar and Jan Pelzl (Primary reference for cryptography)](https://cdn.discordapp.com/attachments/1136145444595040296/1148674384391843872/3IS3_understanding_cryptography.pdf)
   	- [alt link](https://link.springer.com/book/10.1007/978-3-642-04101-3)
-  - "Security in Computing" by Charles P. Fleeger, Shari Lawrence Pfleeger, and Jonathan Margulies
+  - ["Security in Computing" by Charles P. Fleeger, Shari Lawrence Pfleeger, and Jonathan Margulies](https://cdn.discordapp.com/attachments/1136145444595040296/1148762202749284372/Security_in_Computing_--_Charles_P._Pfleeger_Shari_Lawrence_Pfleeger_Jonathan_Margulies_--_5_2015_--_Prentice_Hall.pdf)
+  	- [alt link](https://annas-archive.org/md5/8ba7cd2853bf755414df5007816fd726)
 
 - **Course Structure**: 3 hours of lectures, 1 hour of lab.
 
