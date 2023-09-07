@@ -1,0 +1,1 @@
+Passive attacks usually have a goal to obtain information. The attacker doesn't alter system or information, only listen and/or observe. This is difficult to detect, so prevention is a good measure.
