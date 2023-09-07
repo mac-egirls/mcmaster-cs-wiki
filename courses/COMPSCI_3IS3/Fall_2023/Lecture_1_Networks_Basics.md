@@ -2,7 +2,7 @@
 title: Lecture 1 - Network Basics
 description: 
 published: true
-date: 2023-09-07T16:45:28.580Z
+date: 2023-09-07T16:45:52.551Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T16:42:50.413Z
@@ -21,8 +21,6 @@ The information security process involves (in order):
 4. Identifying vulnerabilities
 5. Assessing risks
 6. Applying controls
-
-## Tenets of Information Security
 
 ## Tenets of Information Security
 - Confidentiality
