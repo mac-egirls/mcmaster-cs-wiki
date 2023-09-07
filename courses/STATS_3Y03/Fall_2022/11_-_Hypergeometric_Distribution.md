@@ -2,10 +2,10 @@
 title: 11 - Hypergeometric Distribution.md
 description: 
 published: true
-date: 2023-07-03T00:27:16.240Z
+date: 2023-09-05T18:01:17.773Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-03T00:27:13.210Z
+dateCreated: 2023-09-05T18:01:14.109Z
 ---
 
 #### Example

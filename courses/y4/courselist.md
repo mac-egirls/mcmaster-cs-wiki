@@ -2,7 +2,7 @@
 title: Year 4 Course List
 description: A list of courses required for Level IV of COMPSCI at McMaster University.
 published: true
-date: 2023-08-20T00:11:39.339Z
+date: 2023-09-05T18:05:53.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-22T15:49:24.267Z

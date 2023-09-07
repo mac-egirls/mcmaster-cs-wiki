@@ -2,10 +2,10 @@
 title: 11 - relations and functions.md
 description: 
 published: true
-date: 2023-08-19T23:27:39.872Z
+date: 2023-09-05T18:00:04.441Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:11:10.934Z
+dateCreated: 2023-09-05T18:00:00.823Z
 ---
 
 # Tuples

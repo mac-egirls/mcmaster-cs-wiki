@@ -1,0 +1,135 @@
+---
+title: 7.4 - caching.md
+description: 
+published: true
+date: 2023-07-04T04:10:40.243Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-04T04:10:37.243Z
+---
+
+![](/images/20221114104651.png)
+- Data is read/written repeatedly
+    - There is frequent access between the memory registers
+- A cache can speed up read/write access
+- Von Neumann bottleneck
+    - caching will lessen the impact of this bottleneck
+
+# Caching in general
+![](/images/20221114104916.png)
+
+> ***Cache***
+> - System that acts as an intermediary between a data producer and a data consumer
+> - A cache intercepts requests and handles them on behalf of data producer
+> - A *small intermediary* storage.
+
+## Characteristics of a Cache
+- *Small*: size of cache < size of data at producer
+- *Active*: contains an algorithm that makes decisions and handles requests
+- *Transparent*: producer and consumer unaware of cache existence
+- *Automatic*: not controlled by an external mechanism.
+
+## Terminology
+==reference [this image](/courses/y2/fall/compsci_2ga3/lecture_notes/7_-_memory_and_caching/7.4_-_caching.md)==
+- $C_h$ cost of a ***cache hit*** - data found in cache
+    - requester wants $data[a]$
+    - request goes to cache and large data storage
+    - meantime cache looks through its contents to see if it has the data or not
+    - If cache has $data[a]$, it directly answers the request and cancels large data storage request
+- $C_m$ cost of a ***cache miss*** - data not found
+    - If cache does not have $data[a]$, cache intercepts the data from *large data storage* and stores it.
+- locality of reference:
+    - `a, b, a, c, a, b, a, a, b, c`: high with many references to the same thing. Has many cache hits.
+    - `a, b, c, d, a, b, e, f, g, h`: low with little references to the same thing. Has many cache misses.
+
+# Measuring Cache Performance
+Given $C_h$, $C_m$ and the ***hit ratio*** $r$
+$$\begin{aligned}
+    r = \frac{N_{hit}}{N_{hit}+N_{miss}}
+\end{aligned}$$
+> ***Expected cost of a lookup***
+> $$\begin{aligned}
+>     C_{cache} = r C_h + (1 - r) C_m
+> \end{aligned}$$
+> 
+> Note that cost without cache is $C_m$, so benefit of using a cache is on average
+> $$\begin{aligned}
+>     C_m - C_{cache} = r(C_m - C_h) > 0
+> \end{aligned}$$
+
+# When to use a Cache
+![](/images/20221114110504.png)
+- When $C_m > C_h$ and $r > 0$ a cache *always* improves performance.
+- To improve the cost of a cache, must have higher hit ratio $r$ or lower lookup cost $C_h$.
+    - Competing objectives
+- What if we have two caches? Let $C_1, C_2$ be caches with $r_1, r_2$ and $C_{h1} > C_{h2}$ (new cache is closer to the register).
+$$\begin{aligned}
+    C_{cache} = r_1 C_{h1} + r_2 C_{h2} + (1 - r_1 - r_2) C_m
+\end{aligned}$$
+- which is lower than the cost with only one cache.
+
+# Cache Replacement Policies
+- How do we decide what to keep in cache?
+![](/images/20221114111649.png)
+==miss==
+
+![](/images/20221114111718.png)
+==miss==
+
+![](/images/20221114111757.png)
+==hit==
+
+![](/images/20221114111819.png)
+==miss==
+
+![](/images/20221114111837.png)
+==hit==
+
+![](/images/20221114111850.png)
+- `b` is the last one that was used in the set `{a, b, c}`
+
+![](/images/20221114111943.png)
+- `c` is used the least frequently in the set `{a, b, c}`, so replace `c` with `d`. 
+
+# Memory Caches
+![](/images/20221117111703.png)
+- memory cache speeds up access to main memory
+- highly parallelized
+- arranged in a hierarchy
+- `L1` - individual per core cash
+- `L2` - shared between the cores
+
+Many ways to maintain a cache:
+
+## Fetching
+### Write-through
+- ***write-through***: As soon as value modified, update back along chain
+![](/images/20221117112053.png)
+- At Core1, make a fetch for address `m`
+    - Look up inside of `L1 -> L2 -> L3 -> Physical Memory`
+    - Then the element is moved up the chain.
+- If called at Core2, 
+    - there is a request that misses on L2, and then hits on the next cache level.
+- 2 fetches cannot happen at the same time. Must always be sequentially
+
+## Storing
+### Write-through
+![](/images/20221117145556.png)
+- At Core1, make a store at address `m`
+    - Store the value in `L1 -> L2 -> L3 -> Physical Memory`
+- How can we change the value in Core2? *Issue* with both Core1 and Core2
+
+### Write-back
+- ***write-back*** - set a *dirty bit* when modified. Write only when value replaced in cache.
+    - ***dirty*** - the value is modified
+![](/images/20221117113420.png)
+- each value inside a cache has a dirty bit. *0* if not dirty, *1* if dirty.
+![](/images/20221117150453.png)
+![](/images/20221117150620.png)
+- if a value hasn't been modified for a while it gets kicked out
+- check dirty bit, see that it has been modified, so it's time to write it
+
+![](/images/20221117151307.png)
+- No propagation means that other memory won't have the value updated.
+- to solve it must be directly notified
+

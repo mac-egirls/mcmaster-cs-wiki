@@ -2,7 +2,7 @@
 title: Emil Sekerinski
 description: 
 published: true
-date: 2023-08-20T00:11:02.172Z
+date: 2023-09-05T18:09:01.612Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-16T00:20:56.033Z

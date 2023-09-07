@@ -2,7 +2,7 @@
 title: Course List
 description: A course list for Computer Sciece, and other courses documented on this wiki.
 published: true
-date: 2023-09-06T00:19:38.442Z
+date: 2023-09-06T00:19:40.893Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T00:19:38.442Z

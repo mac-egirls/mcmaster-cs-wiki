@@ -2,10 +2,10 @@
 title: 5 - formal logic.md
 description: 
 published: true
-date: 2023-08-19T23:28:02.405Z
+date: 2023-09-05T18:00:37.445Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:11:40.115Z
+dateCreated: 2023-09-05T18:00:33.647Z
 ---
 
 # proof theory

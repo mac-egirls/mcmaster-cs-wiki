@@ -1,0 +1,64 @@
+---
+title: 7.2 - physical memory technology.md
+description: 
+published: true
+date: 2023-07-04T04:10:32.538Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-04T04:10:30.197Z
+---
+
+# Physical RAM Implementations
+
+![](/images/20221110103834.png)
+
+## Static RAM (SRAM)
+- Similar to a latch
+- High-power consumption
+- low latency, high access speed
+
+## Dynamic RAM (DRAM)
+- Similar to a capacitor
+- Low-power consumption
+- Higher-latency, slower access
+
+# Measures of Memory Technology
+- ***Density*** - how much data can we store per unit chip area?
+- ***Latency and Cycle Time***
+    - ***Latency*** - How long do read/write operations take? 
+    - ***Cycle time*** - average time per operation
+- ***clock frequency*** - memory is managed by a microcontroller: what clock frequency?
+    - Same as processor? (Synchronous)
+    - different than processor? (asynchronous)
+
+# Memory Organization
+![](/images/20221110104407.png)
+
+- memory bus - How many lines? (interface width/word size)
+    - *parallel interface* - can access the data all at the same time
+- Number of parallel connections define the ***transfer size***
+- memory is *word addressable* (r/w ops apply to words)
+- read-write operations apply to words
+
+# Byte Addressing
+![](/images/20221110104447.png)
+
+- How do we access a single byte?
+- *Virtual addresses* at processor level are byte addresses
+- byte addresses `b`, word size `N`, `div` is integer division
+- word = `b div N`
+- offset = `b mod N`
+
+## Powers of Two
+![](/images/20221110105022.png)
+- If `N` is a power of two: `N = 2^x` then:
+- Division by `2^x` equivalent to shift by `x`
+- modulo equivalent to truncation at `x` digits
+
+# Alignment
+![](/images/20221110104447.png)
+
+- An integer is ***aligned*** if the bytes of the integer correspond to a word in the underlying physical memory
+    - Integer composed of bytes `12, 13, 14, 15` is aligned, but `6,7,8,9` is not.
+- ***byte alignment*** is some architectures is required, others with unaligned access result in lower performance
+    - If an integer spans *2* words, the processor must perform *2* read operations

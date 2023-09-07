@@ -1,0 +1,48 @@
+---
+title: 4.1 - instruction encoding.md
+description: 
+published: true
+date: 2023-07-04T04:09:57.704Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-04T04:09:55.262Z
+---
+
+# Instruction Set Architecture
+## simplified conditions
+- Fixed-length instructions 
+    - simpler hardware, larger memory footprint
+- Program loaded in memory
+    - assume no OS running, no bootloader, architecture is in a running state
+- Instruction pointer initialized
+- Processor already running
+    - don't cover mode switching
+## hardware implementation
+- 16 general purpose registers
+- separate instruction/data memory (Harvard)
+- byte addressable memory
+- 32-bit architecture
+
+# Sample Instructions
+- `add` performs addition of two numbers stored in registers
+    - `add rX, rA, rB` $\equiv$ `rX = rA+rB`
+- `load` reads an integer from a memory location and stores it into a register
+    - `load rX, off(rA)`$\equiv$ `rX=memory[rA+off]`
+        - `off` - an immediate/literal value. Can be negative
+        - `r1` could be holding the first value of an array
+- `store` writes an integer from a register to a memory location
+    - `store rB, off(rA)` $\equiv$ `memory[rA+off]=rB`
+- `jump` moves the instruction pointer to a new location, specified in a register
+    - `jump off(rA)`$\equiv$`PC=rA+off`
+
+# Design Decisions
+- `rX` - always a destination register
+- `rA` - always an argument in addition
+- Three instructions use offsets: a way to encode an *immediate value* in the instruction
+- only follow data paths in the subsequent hardware design
+
+![](/images/20221006103405.png)
+- Operation - the opcode
+- Wasting bits here, but it's to make the hardware simpler
+    - Jump could have 8 more bits, but hardware would be more complex
+- There are 16  bits for a register to identify the [16 general purpose registers](/courses/y2/fall/compsci_2ga3/lecture_notes/4_-_instructions/4.1_-_instruction_encoding.md).

@@ -2,7 +2,7 @@
 title: 10.5 - direct memory access.md
 description: 
 published: true
-date: 2023-07-04T04:09:17.337Z
+date: 2023-09-05T17:56:02.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-04T04:09:14.991Z

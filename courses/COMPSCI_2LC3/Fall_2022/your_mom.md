@@ -2,10 +2,10 @@
 title: your mom.md
 description: 
 published: true
-date: 2023-07-04T04:12:07.625Z
+date: 2023-09-05T18:01:04.697Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:12:05.039Z
+dateCreated: 2023-09-05T18:01:02.179Z
 ---
 
 $$\begin{gather*}

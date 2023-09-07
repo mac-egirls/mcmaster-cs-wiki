@@ -2,10 +2,10 @@
 title: 6 - quantification.md
 description: 
 published: true
-date: 2023-08-19T23:28:06.145Z
+date: 2023-09-05T18:00:42.733Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:11:44.403Z
+dateCreated: 2023-09-05T18:00:38.658Z
 ---
 
 - Can express quantification by

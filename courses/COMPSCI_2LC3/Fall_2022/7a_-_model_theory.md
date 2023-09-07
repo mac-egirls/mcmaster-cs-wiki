@@ -2,10 +2,10 @@
 title: 7a - model theory.md
 description: 
 published: true
-date: 2023-08-19T23:28:12.421Z
+date: 2023-09-05T18:00:51.779Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:11:53.168Z
+dateCreated: 2023-09-05T18:00:48.588Z
 ---
 
 ![](/images/20221031141915.png)

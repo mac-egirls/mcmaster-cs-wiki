@@ -2,10 +2,10 @@
 title: 14 - modern algebra.md
 description: 
 published: true
-date: 2023-08-19T23:27:46.736Z
+date: 2023-09-05T18:00:13.725Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:11:19.717Z
+dateCreated: 2023-09-05T18:00:10.071Z
 ---
 
 2022-12-07

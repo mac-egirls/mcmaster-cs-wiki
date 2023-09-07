@@ -2,10 +2,10 @@
 title: 9 - theory of sets.md
 description: 
 published: true
-date: 2023-07-04T04:12:03.986Z
+date: 2023-09-05T18:01:00.716Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:12:01.695Z
+dateCreated: 2023-09-05T18:00:58.105Z
 ---
 
 # Axioms

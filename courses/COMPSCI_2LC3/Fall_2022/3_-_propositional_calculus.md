@@ -2,10 +2,10 @@
 title: 3 - propositional calculus.md
 description: 
 published: true
-date: 2023-08-19T23:27:56.309Z
+date: 2023-09-05T18:00:28.278Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:11:32.846Z
+dateCreated: 2023-09-05T18:00:25.257Z
 ---
 
 > ***Definitions***

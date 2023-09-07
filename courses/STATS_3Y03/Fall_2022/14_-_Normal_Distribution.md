@@ -2,10 +2,10 @@
 title: 14 - Normal Distribution.md
 description: 
 published: true
-date: 2023-07-03T00:27:30.102Z
+date: 2023-09-05T18:01:33.193Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-03T00:27:26.435Z
+dateCreated: 2023-09-05T18:01:29.055Z
 ---
 
 2022-10-06

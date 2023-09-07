@@ -2,7 +2,7 @@
 title: Sebastien Mosser
 description: 
 published: true
-date: 2023-08-20T00:11:19.569Z
+date: 2023-09-05T18:09:19.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-17T15:42:37.449Z

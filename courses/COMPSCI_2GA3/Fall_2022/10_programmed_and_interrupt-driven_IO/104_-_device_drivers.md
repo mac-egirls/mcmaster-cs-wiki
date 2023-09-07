@@ -2,7 +2,7 @@
 title: 10.4 - device drivers.md
 description: 
 published: true
-date: 2023-07-04T04:09:13.916Z
+date: 2023-09-05T17:55:58.275Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-04T04:09:11.516Z

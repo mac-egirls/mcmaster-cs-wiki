@@ -2,7 +2,7 @@
 title: Javad Doliskani
 description: 
 published: true
-date: 2023-08-20T00:11:09.780Z
+date: 2023-09-05T18:09:09.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T23:41:32.775Z

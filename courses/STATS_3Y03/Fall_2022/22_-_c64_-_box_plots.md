@@ -2,10 +2,10 @@
 title: 22 - c6.4 - box plots.md
 description: 
 published: true
-date: 2023-07-03T00:28:10.934Z
+date: 2023-09-05T18:02:27.825Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-03T00:28:08.733Z
+dateCreated: 2023-09-05T18:02:21.176Z
 ---
 
 *Box plots/box-and-whisker plots* describes

@@ -2,10 +2,10 @@
 title: 16 - Exponential Distribution.md
 description: 
 published: true
-date: 2023-07-03T00:27:38.942Z
+date: 2023-09-05T18:01:43.349Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-03T00:27:35.768Z
+dateCreated: 2023-09-05T18:01:39.505Z
 ---
 
 Consider an interval $T$. Suppose that some event occurs randomly according to some Poisson Distribution with rate $\lambda$.

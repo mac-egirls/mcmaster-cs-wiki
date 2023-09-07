@@ -2,10 +2,10 @@
 title: 21 - c6.1 - Actual Stats.md
 description: 
 published: true
-date: 2023-07-03T00:28:07.633Z
+date: 2023-09-05T18:02:21.050Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-03T00:28:04.023Z
+dateCreated: 2023-09-05T18:02:11.436Z
 ---
 
 Sample numerical data

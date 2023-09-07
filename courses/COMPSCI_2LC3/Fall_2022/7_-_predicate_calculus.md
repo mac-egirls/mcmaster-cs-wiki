@@ -2,10 +2,10 @@
 title: 7 - predicate calculus.md
 description: 
 published: true
-date: 2023-08-19T23:28:09.203Z
+date: 2023-09-05T18:00:47.319Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-04T04:11:49.067Z
+dateCreated: 2023-09-05T18:00:43.931Z
 ---
 
 - *predicate calculus formula* - boolean expression with some boolean variables may have been replaced by

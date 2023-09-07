@@ -2,7 +2,7 @@
 title: Logical Operators
 description: operators used in Boolean algebra, and Propositional logic, and to represent logic gates
 published: true
-date: 2023-08-20T00:11:45.187Z
+date: 2023-09-05T18:06:10.788Z
 tags: logic, computer architecture
 editor: markdown
 dateCreated: 2023-06-17T12:35:58.416Z

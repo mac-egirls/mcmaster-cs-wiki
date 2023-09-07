@@ -2,7 +2,7 @@
 title: DeltaHacks
 description: 
 published: true
-date: 2023-08-20T00:10:47.261Z
+date: 2023-09-05T18:08:45.633Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-15T03:39:07.837Z

@@ -2,7 +2,7 @@
 title: Lecture 1 - Network Basics
 description: This lecture outlines the information security process organizations follow to protect assets by analyzing risks and applying controls. It covers security terminology, threat sources, vulnerabilities, attacks, and standards for risk management.
 published: true
-date: 2023-09-07T16:46:35.001Z
+date: 2023-09-07T16:46:37.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-07T16:42:50.413Z

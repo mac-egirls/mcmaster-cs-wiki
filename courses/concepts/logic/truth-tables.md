@@ -2,7 +2,7 @@
 title: Truth Tables
 description: 
 published: true
-date: 2023-08-20T00:11:47.741Z
+date: 2023-09-05T18:06:14.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-18T00:17:37.087Z
