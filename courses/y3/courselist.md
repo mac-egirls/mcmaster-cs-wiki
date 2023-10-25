@@ -2,7 +2,7 @@
 title: Year 3 Course List
 description: A list of courses required for Level III of COMPSCI at McMaster University.
 published: true
-date: 2023-09-05T18:05:50.995Z
+date: 2023-10-25T15:49:35.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T23:11:34.337Z
@@ -37,7 +37,7 @@ This information is accurate as of 2023-06-14
 | Code | Name | Prof | Prof Rating |
 |------|-----|-----|----|
 | COMPSCI 3AC3 | Algorithms and Complexity | [Ryszard Janicki](/professors/ryszard-janicki) | 1.5/5 |
-| COMPSCI 3N03 | Computer Networks and Security | Unannounced | N/A |
+| COMPSCI 3N03 | Computer Networks and Security | Zhao Zhao | N/A |
 | COMPSCI 3TB3 | Syntax-Based Tools and Compilers | [Emil Sekerinski](/professors/emil-sekerinski) | 3/5
 
 # Technical Electives (6 units minimum)
