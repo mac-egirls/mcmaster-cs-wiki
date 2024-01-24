@@ -1,8 +1,8 @@
 ---
-title: Introduction to Data Mining
+title: COMPSCI 3DM3 - Introduction to Data Mining
 description: 
 published: true
-date: 2024-01-24T20:08:46.086Z
+date: 2024-01-24T20:09:46.897Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-24T20:08:46.086Z
